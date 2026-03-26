@@ -4,15 +4,15 @@
 ## Структура проєкту
 
 ```
-my_tail/
-├── my_tail.sln
-├── my_tail/
-│   ├── my_tail.csproj
-│   ├── Program.cs       
-│   └── App.cs           
-└── my_tail.Tests/
-    ├── my_tail.Tests.csproj
-    └── AppTests.cs      
+sychprog/
+├── .github/workflows/   
+├── MyTail/              
+├── MyTail.Tests/        
+├── .gitignore           
+├── file.txt             
+├── MyTailSolution.slnx  
+└── README.md
+        
 ```
 
 ## Збірка та запуск
