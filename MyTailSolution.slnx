@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="MyTail.Tests/MyTail.Tests.csproj" />
+  <Project Path="MyTail/MyTail.csproj" />
+</Solution>
